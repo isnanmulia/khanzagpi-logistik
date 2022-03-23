@@ -1,0 +1,16 @@
+body { position: relative; min-height: 1px; padding: 0; font-family: sans-serif; font-size: 9pt; }
+table { font-size: 9pt; }
+#logo-rs { position: absolute; float: left; height: 60px; }
+#kop-report { text-align: center; }
+#nama-rs { font-size: 12pt; }
+#hr-kop { border-top: 3px double black; }
+#report-title { text-align: center; font-size: 12pt; padding: 5px; }
+.main-table { width: 100%; }
+.report-table { border-collapse: collapse; }
+.report-table th { background-color: #EEE; }
+.report-table th, .report-table td { padding: 0; margin:0; }
+.table-border th, .table-border td { border-top: 1px solid black; border-bottom: 1px solid black; }
+.td-num { text-align: right; }
+.span-total { padding: 0 20px; }
+.sign-here { vertical-align: top; border-top: 1px solid black; }
+#print-time { font-size: 8pt; font-style: italic; float: right }
